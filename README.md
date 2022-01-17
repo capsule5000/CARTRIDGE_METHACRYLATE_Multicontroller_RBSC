@@ -6,4 +6,4 @@ This methacrylate cartridge is specially designed for the Multicontroller PCB of
 
 ![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_Multicontroller_RBSC/blob/main/Images/front_multicontroller.png)
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_Multicontroller_RBSC/blob/main/Images/rear_multicontroller.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_Multicontroller_RBSC/blob/main/Images/Rear_multicontroller.png)
